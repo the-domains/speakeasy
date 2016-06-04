@@ -1,0 +1,28 @@
+name: speakeasy
+favicon: null
+layout_spectrum: 0.5281574467662722
+typography_spectrum: 0.8371725645847619
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.10769858327694237
+  lightness: 0.9988166894763708
+  saturation: 0.5705853996332735
+  rhythmicContrast: 0.6861357183661312
+purpose: []
